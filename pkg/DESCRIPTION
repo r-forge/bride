@@ -1,0 +1,10 @@
+Package: bride
+Title: Brier score decomposition of probabilistic forecasts for binary events
+Version: 1.1
+Date: 2013-02-01
+Author: Stefan Siegert
+Maintainer: Stefan Siegert <stefan_siegert@gmx.de>
+Description: Description of bride package
+Suggests: 
+License: GPL-2
+
