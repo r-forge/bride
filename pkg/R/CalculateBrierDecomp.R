@@ -1,4 +1,4 @@
-#the main function
+#the main function 
 CalculateBrierDecomp <- function(p, y, n.bins) {
 
   #initialize main object to return
